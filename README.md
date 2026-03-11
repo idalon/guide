@@ -1,15 +1,17 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
----
+# EIDOLON GUIDE
 
-# Welcome
+Feel free to join us on Discord at the [**Eidolon Server**arrow-up-right](https://discord.com/invite/mQhzbVv5bg)
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+[**hashtag**](./#summary) **SUMMARY**
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+This guide is intended for all skill levels: both beginners and players who want to invest more deeply. Its goal is to help you understand the basic mechanics if you play casually, as well as support players who want to get into speedrunning and improve their times.
 
-### Jump right in
+This guide is an update of → [How to feed catsarrow-up-right](https://docs.google.com/document/d/1hAHCi8HLwnp_cwovj9tCoPavX3U2sXaIndH0d-WMOow/edit?tab=t.0#heading=h.u0dgda8phklc) by Governor → [The Eidolon Wikiarrow-up-right](https://docs.google.com/document/d/1JuzfhprfFsbpu4JUSePe3JlCvtmHDFrhxbJBttetzvg/edit?tab=t.0) by Dur\_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="/broken/pages/7aUFmnCMx9m4smGncsXL">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+[**hashtag**](./#quick-menu) **QUICK MENU**
+
+[hammerBuildschevron-right](basics/builds/) [calculator-simpleBasicschevron-right](basics/basics/) [functionAdvancedchevron-right](basics/advanced/)
+
+[userSolo Stratschevron-right](basics/solo-strats/) [people-pantsDuo Stratschevron-right](basics/duo-strats/)
+
+[NextVocabularychevron-right](basics/vocabulary.md)
