@@ -53,10 +53,10 @@
 
 ## Advanced
 
-* [Advanced](advanced/README.md)
-  * [Advanced (After 6x3)](advanced/advanced-after6x3.md)
-  * [Shrine Cycles & Bus](advanced/shrine-cycles-and-bus.md)
-  * [Mandonel Voltless](advanced/mandonel-voltless.md)
+* [Advanced (After 6x3)](advanced/advanced-after-6x3.md)
+* [Shrine Cycles & Bus](advanced/shrine-cycles-and-bus.md)
+* [Mandonel Voltless](advanced/mandonel-voltless.md)
+* [Advanced](advanced/advanced.md)
 
 ## Solo Strats
 
