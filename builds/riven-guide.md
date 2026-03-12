@@ -6,7 +6,7 @@
 
 1. [**MS CD negative**](https://warframe.market/auctions/search?type=riven\&positive_stats=critical_damage,multishot\&negative_stats=has\&sort_by=price_asc\&weapon_url_name=zenith) ⇨ 3 Multishot Solo/Duo Build\
    Probably the best option in terms of flexibility
-2. [**CC CD negative**](https://warframe.market/auctions/search?type=riven\&positive_stats=multishot,critical_chance\&negative_stats=has\&sort_by=price_asc\&weapon_url_name=zenith) ⇨ 2 Multishot Solo Build ⇨ Replace Critical Delay\
+2. [**CC CD negative**](https://warframe.market/auctions/search?type=riven\&positive_stats=critical_chance,critical_damage\&negative_stats=has\&sort_by=price_asc\&weapon_url_name=zenith) ⇨ 2 Multishot Solo Build ⇨ Replace Critical Delay\
    This Riven works, no specific grade, and it's really cheap
 3. [**MS DMG negative**](https://warframe.market/auctions/search?type=riven\&positive_stats=multishot,base_damage_%2F_melee_damage\&negative_stats=has\&sort_by=price_asc\&weapon_url_name=zenith) ⇨ 3 Multishot Solo/Duo Build\
    Lower Than MS CD
