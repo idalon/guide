@@ -2,7 +2,7 @@
 
 ## Vastilok or Sarpa
 
-![](<../../../.gitbook/assets/image (34)>)
+![](<../../.gitbook/assets/image (34)>)
 
 Vastilok can be replaced with Sarpa, but you’ll have an easier time with Vastilok
 

@@ -13,7 +13,7 @@ Target the 1:23.300 Breakpoint.\
 Example:\
 if your Capture Time = 50 ms, then your Last Limb Break Time must be ≤ 1:23.250.
 
-If you can’t manage it, it is highly recommended to progress in [<mark style="color:$success;">**QC 2+2**</mark>](../../basics/basics/quick-charge-2+2.md), [<mark style="color:$success;">**Propa & Raplak Timming 100ms avg**</mark>](../../basics/basics/propa-and-raplak-timing.md)
+If you can’t manage it, it is highly recommended to progress in [<mark style="color:$success;">**QC 2+2**</mark>](../basics/quick-charge-2+2.md), [<mark style="color:$success;">**Propa & Raplak Timming 100ms avg**</mark>](../basics/propa-and-raplak-timing.md)
 
 You succeeded if your Shrine Time is 9.X s.\
 If it's 10.X or 11 s, you missed

@@ -6,8 +6,8 @@ description: Knell / Dual Toxocyst Incarnon
 
 ## Knell Prime
 
-![](<../../../.gitbook/assets/image (10)>)
+![](<../../.gitbook/assets/image (10)>)
 
 ## Dual Toxocyst Incarnon
 
-![](<../../../.gitbook/assets/image (13)>)
+![](<../../.gitbook/assets/image (13)>)

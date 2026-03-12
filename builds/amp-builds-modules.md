@@ -6,7 +6,7 @@ To unlock Amps, you need to have completed the quests [**The War Within**](https
 
 For the more advanced Amps, you will also need to complete the [**Vox Solaris**](https://wiki.warframe.com/w/Vox_Solaris_\(Quest\)) quest and reach the Old Mate rank with [**Solaris United**](https://wiki.warframe.com/w/Solaris_United) in Fortuna
 
-![Acquisition: Quill Onkko in Cetus Little Duck in Fortuna](<../../.gitbook/assets/image (72)>)
+![Acquisition: Quill Onkko in Cetus Little Duck in Fortuna](<../.gitbook/assets/image (72)>)
 
 **Raplak – Shraksun – Lohrin (1-2-3):** The best AMP if you haven’t unlocked Fortuna yet. All parts for this Amp can be purchased from Quill Onkko
 

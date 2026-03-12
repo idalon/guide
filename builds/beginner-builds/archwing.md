@@ -2,7 +2,7 @@
 
 ### Itzal
 
-![](<../../../.gitbook/assets/image (45)>)
+![](<../../.gitbook/assets/image (45)>)
 
 Itzal is the best Archwing for Eidolon hunting
 

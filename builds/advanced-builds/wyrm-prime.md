@@ -1,6 +1,6 @@
 # Wyrm Prime
 
-![](<../../../.gitbook/assets/image (33)>)
+![](<../../.gitbook/assets/image (33)>)
 
 Key Mod: Negate\
 Wyrm Prime’s true value comes from its exclusive mod Negate, which cleanses one status effect every 5 seconds.\
