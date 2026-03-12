@@ -12,9 +12,7 @@ You only need two essential mods, but it’s recommended to invest in survivabil
 Do NOT add Strength so as not to kill Vomvalysts
 {% endhint %}
 
-### Key Mods
+#### Key Mods
 
-* **Cold Snap**\
-  Makes your 3rd ability (Cosmic Rush) freeze enemies, especially useful for dealing with Vomvalysts
-* **Hyperion Thrusters**\
-  Boosts your sprint speed even further. Moving fast becomes increasingly important as your runs get more efficient
+* [**Cold Snap**](https://wiki.warframe.com/w/Cold_Snap)**:** makes your 3rd ability (Cosmic Rush) freeze enemies, especially useful for dealing with Vomvalysts
+* [**Hyperion Thrusters**](https://wiki.warframe.com/w/Hyperion_Thrusters)**:** boosts your sprint speed even further. Moving fast becomes increasingly important as your runs get more efficient

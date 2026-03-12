@@ -32,7 +32,7 @@ This is another popular method to guarantee CW is active on every limb
 * You may notice that you don't necessarily need to cast <mark style="color:yellow;">**CW**</mark> after propa but rather just **always at the same moment in the Eidolon's animation**, so you can come up with your own reference
 
 {% hint style="danger" %}
-Beware of this [<mark style="color:$danger;">**bug**</mark>](https://forums.warframe.com/topic/1451619-propa-eternal-onslaught-not-working-as-expected/#comment-13286760), you will have to trigger [<mark style="color:$success;">**Eternal Onslaught**</mark>](../builds/amp-and-operator-arcanes.md) before firing Propa and then regain enough energy to cast CW
+Beware of this [<mark style="color:$danger;">**bug**</mark>](https://forums.warframe.com/topic/1451619-propa-eternal-onslaught-not-working-as-expected/#comment-13286760), you will have to trigger [**Eternal Onslaught**](https://wiki.warframe.com/w/Eternal_Onslaught) before firing Propa and then regain enough energy to cast CW
 {% endhint %}
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2Fqgrdxw5YDP7BCDFVwSUa%2FCW%20after%20propa.png?alt=media&#x26;token=c7f4039f-20f2-498a-9fb1-9f74901402fd" alt=""><figcaption></figcaption></figure>

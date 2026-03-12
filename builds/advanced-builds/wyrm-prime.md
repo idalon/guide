@@ -2,13 +2,7 @@
 
 ![](<../../.gitbook/assets/image (33)>)
 
-Key Mod: Negate\
-Wyrm Prime’s true value comes from its exclusive mod Negate, which cleanses one status effect every 5 seconds.\
-Guardian\
-A must-have.\
-It instantly restores your shields when they drop to zero, giving you very consistent free shield-gating.\
-Tenacious Bond\
-+1.2 Critical Damage bonus for all your weapons ( weapons sentinel over 50% e.g Vulklok+PointStrike)\
-A great way to passively increase your DPS\
-Reinforced Bond\
-Fire Rate Bonus
+{% hint style="warning" %}
+[**Synth Fiber**](https://wiki.warframe.com/w/Synth_Fiber) or [**Synth Deconstruct**](https://wiki.warframe.com/w/Synth_Deconstruct) can be used to passively reload your Zenith, however you should avoid them if you plan on using [**Primary Plated Rounds**](https://wiki.warframe.com/w/Primary_Plated_Round)
+{% endhint %}
+
