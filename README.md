@@ -1,5 +1,6 @@
 ---
 description: by BAN FENOMERAL LITHIU
+icon: house
 ---
 
 # EIDOLON GUIDE
@@ -19,17 +20,28 @@ This guide is an update of\
 
 {% columns %}
 {% column width="50%" %}
-<details>
+{% content-ref url="builds/" %}
+[builds](builds/)
+{% endcontent-ref %}
 
-<summary></summary>
+{% content-ref url="basics/" %}
+[basics](basics/)
+{% endcontent-ref %}
 
-
-
-</details>
+{% content-ref url="advanced/" %}
+[advanced](advanced/)
+{% endcontent-ref %}
 {% endcolumn %}
 
 {% column width="50%" %}
+{% content-ref url="solo-strats/" %}
+[solo-strats](solo-strats/)
+{% endcontent-ref %}
+
+{% content-ref url="duo-strats/" %}
+[duo-strats](duo-strats/)
+{% endcontent-ref %}
+
 
 {% endcolumn %}
 {% endcolumns %}
-

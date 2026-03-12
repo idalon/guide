@@ -2,9 +2,6 @@
 
 * [EIDOLON GUIDE](README.md)
 * [Vocabulary](vocabulary.md)
-
-## Builds
-
 * [Builds](builds/README.md)
   * [Beginner Builds](builds/beginner-builds/README.md)
     * [Volt](builds/beginner-builds/volt.md)
@@ -28,9 +25,6 @@
   * [Amp Builds - Modules](builds/amp-builds-modules.md)
   * [Amp Mods - Thara](builds/amp-mods-thara.md)
   * [Amp & Operator Arcanes](builds/amp-and-operator-arcanes.md)
-
-## Basics
-
 * [Basics](basics/README.md)
   * [Gearwheel equipment](basics/gearwheel-equipment.md)
   * [Resource Farming](basics/resource-farming.md)
@@ -50,16 +44,10 @@
     * [Hydrolyst Spawn](basics/how-to-capture-tridolon/hydrolyst-spawn.md)
     * [Spawn Locations](basics/how-to-capture-tridolon/spawn-locations.md)
   * [Eidolon - Phases](basics/eidolon-phases.md)
-
-## Advanced
-
-* [Advanced (After 6x3)](advanced/advanced-after-6x3.md)
-* [Shrine Cycles & Bus](advanced/shrine-cycles-and-bus.md)
-* [Mandonel Voltless](advanced/mandonel-voltless.md)
-* [Advanced](advanced/advanced.md)
-
-## Solo Strats
-
+* [Advanced](advanced/README.md)
+  * [Advanced (After 6x3)](advanced/advanced-after-6x3.md)
+  * [Shrine Cycles & Bus](advanced/shrine-cycles-and-bus.md)
+  * [Mandonel Voltless](advanced/mandonel-voltless.md)
 * [Solo Strats](solo-strats/README.md)
   * [Wisp SOLO Strats](solo-strats/wisp-solo-strats/README.md)
     * [Eidolon Walk](solo-strats/wisp-solo-strats/eidolon-walk.md)
@@ -74,9 +62,6 @@
   * [Volt Solo Method (Shraksun)](solo-strats/volt-solo-method-shraksun/README.md)
     * [Garry Shrine](solo-strats/volt-solo-method-shraksun/garry-shrine.md)
     * [Harry Shrine](solo-strats/volt-solo-method-shraksun/harry-shrine.md)
-
-## Duo Strats
-
 * [Duo Strats](duo-strats/README.md)
   * [Volt / Nova DUO Strats](duo-strats/volt-nova-duo-strats/README.md)
     * [Eidolon Walk](duo-strats/volt-nova-duo-strats/eidolon-walk.md)
