@@ -42,7 +42,7 @@
   * [How To Capture Tridolon](basics/how-to-capture-tridolon/README.md)
     * [Gantulyst Spawn](basics/how-to-capture-tridolon/gantulyst-spawn.md)
     * [Hydrolyst Spawn](basics/how-to-capture-tridolon/hydrolyst-spawn.md)
-    * [Spawn Locations](basics/how-to-capture-tridolon/spawn-locations.md)
+  * [Spawn Locations](basics/spawn-locations.md)
   * [Eidolon - Phases](basics/eidolon-phases.md)
 * [Advanced](advanced/README.md)
   * [Advanced (After 6x3)](advanced/advanced-after-6x3.md)
