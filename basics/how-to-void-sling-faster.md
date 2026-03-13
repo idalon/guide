@@ -4,7 +4,7 @@ The best way to do this is to bind your “Jump” key to your mouse scroll whee
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2Fs6Yzu6acC4xF9NRCnscs%2Funknown.png?alt=media&#x26;token=939740fc-14cd-4fba-9e5a-269ab8d8e711" alt=""><figcaption><p>Either Mouse Wheel Up or Down will do</p></figcaption></figure>
 
-#### Utility of Void Sling:
+### Utility of Void Sling:
 
 * **Operator Energy Management**: Your Operator regains 10 energy every time you Void Sling through an enemy (Eidolon)
 * **Madurai’s** [**Sling Strength**](https://wiki.warframe.com/w/Focus/Madurai#Sling_Strength): Grants you a 40% Ability Strength bonus

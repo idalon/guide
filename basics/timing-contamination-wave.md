@@ -2,10 +2,10 @@
 
 <mark style="color:yellow;">CW</mark> creates a debuff that lasts 20 seconds but <mark style="color:$danger;">**cannot be refreshed**</mark>. To ensure the debuff is active on each limb at the moment its shield breaks, you need to carefully control when you apply it
 
-**Key Concepts**
+## **Key Concepts**
 
 * **Dead Zone:** the period during which the debuff can be reapplied
-* Shield Vulnerability Windows: occur approximately every **17.2 seconds**
+* **Shield Vulnerability Windows**: occur approximately every **17.2 seconds**
 * **Goal:** keep the dead zone away from these shield vulnerability windows
 
 ## Early-Late CW Method

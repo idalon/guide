@@ -6,7 +6,7 @@
 **Vigorous Swap** and **Arcane Expertise** are flex slots
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **5x Tauforged Ambar Archon Shards.** Very important to avoid getting transfer locked after breach surge

@@ -20,7 +20,7 @@ This is true for FPS values of 120 or lower. At higher FPS values, negative shie
 
 </details>
 
-#### Links:
+### Links:
 
 [https://idalon.com/games/raplak](https://idalon.com/games/raplak)[\
 https://idalon.com/games/propa](https://idalon.com/games/propa)[\
