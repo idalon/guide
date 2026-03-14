@@ -1,12 +1,13 @@
 # Harry Nova Setup
 
-#### Harry Water Preparation – Nova
+### Harry Water Preparation – Nova
 
 * Nova may need to reposition the LONG portal, as Lures may teleport when Volt places his shields.
 * Since Nova’s rework, portals no longer have a duration, meaning you don’t need to constantly replace them.\
   The LONG portal is the only sensitive one.
 
-Long Unstuck Setup – Nova\
+### Long Unstuck Setup – Nova
+
 After Cast the portal toward your Long tower:
 
 * Leave your Warframe in front of the portal
@@ -18,7 +19,7 @@ After Cast the portal toward your Long tower:
 * Cast Roar for VOLT
 * Keep /unstuck pre-typed in chat
 
-At the Shrine – VS + Propa Timing
+### At the Shrine – VS + Propa Timing
 
 When the host detonates the loot:
 

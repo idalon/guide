@@ -1,4 +1,4 @@
-# Locpin Water
+# Loc-pin Water
 
 Loc-pins will help you position yourself correctly; they’re a great time-saver and quality-of-life (QOL) improvement.
 
@@ -8,7 +8,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>CL ( Close Left )</summary>
+<summary>CL</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FIskVtLMz8WbHOwuQyR5J%2Funknown.png?alt=media&#x26;token=68290703-9e49-4aef-900c-a2e326394859" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>CR ( Close Right )</summary>
+<summary>CR</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FcBUe7Y5xi1I35QiVr2T0%2Funknown.png?alt=media&#x26;token=2ebe8f27-a41e-40f8-a957-1d0ce89c0fe0" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,6 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FQQU9Xcxtw3YwBQk44KAL%2Funknown.png?alt=media&#x26;token=331762e9-583a-4b1f-9d05-9f2f927b9511" alt=""><figcaption></figcaption></figure>
 
-</details>
-
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FvgShJFVNSFljOsGZZQy6%2Fimage28.gif?alt=media&#x26;token=3849bd47-0cfa-433a-a4fb-72aec2600efa" alt=""><figcaption></figcaption></figure>
+
+</details>

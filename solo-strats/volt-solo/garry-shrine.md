@@ -1,13 +1,13 @@
 # Garry Shrine
 
-At the Shrine – VS timming
+### At the Shrine – VS timming
 
 When the loot pop:
 
 * Go Operator
 * Use the Power Transfer timer to time your VS:
 
-Timing
+### Timing
 
 You have to VS 7s after the loot lure explodes before casting VS\
 But if you are constant, it remains the same as Nova
@@ -23,11 +23,11 @@ But if you are constant, it remains the same as Nova
 What follows depends on the Garry spawn\
 See Lithiu examples : [Link](https://youtu.be/3CTtIk8WEuU?t=155)
 
-Garry Fight
+### Garry Fight
 
 * For Garry’s limbs, same for Terry,
 
-After the Down
+### After the Down
 
 * Use the forced Vomvalyst spawns to charge your lures
 * Go pick up 2 lures

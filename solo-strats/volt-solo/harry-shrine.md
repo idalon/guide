@@ -1,13 +1,13 @@
 # Harry Shrine
 
-At the Shrine – VS Timing
+### At the Shrine – VS Timing
 
 When the loot pop:
 
 * Go Operator
 * Use the Power Transfer timer to time your VS:
 
-Timing
+### Timing
 
 You have to VS 9s after the loot lure explodes before casting VS\
 But if you are constant, it remains the same as Nova
@@ -23,12 +23,12 @@ But if you are constant, it remains the same as Nova
 
 See Lithiu examples [Link](https://youtu.be/3CTtIk8WEuU?t=317)
 
-Harry Fight
+### Harry Fight
 
 * Same logic as Garry
 * Limb timing…
 
-After Hydro Down
+### After Hydro Down
 
 * Make sure all lures are fully charged
 * Perform the final capshot

@@ -1,15 +1,15 @@
-# Volt / Nova DUO Strats
+# Overview
 
 The fastest way to hunt Eidolons. It requires strong teamwork and a fair amount of time to learn, but it offers a different approach to Eidolon hunting, as solo and duo runs are played very differently
 
-Builds
+### Builds
 
 * Volt Duo
-  * [Zenith ](https://docs.google.com/document/d/17GKu52mvzQVJ5mcfDTcKP1q-mH6aMywsF3aNERU0E1w/edit?tab=t.0#heading=h.ydokghha3599)8.7fr 2ms or 10fr 3ms
+  * [<mark style="color:$success;">**Zenith**</mark>](../../builds/advanced-builds/zenith.md) 8.7fr 2ms or 10fr 3ms
   * Dual Toxocyst / Sicarus
   * Vastilok
 * Nova Duo
-  * [Zenith ](https://docs.google.com/document/d/17GKu52mvzQVJ5mcfDTcKP1q-mH6aMywsF3aNERU0E1w/edit?tab=t.0#heading=h.ydokghha3599)2ms build
+  * [<mark style="color:$success;">**Zenith**</mark>](../../builds/advanced-builds/zenith.md) 3ms build
   * Dual Toxocyst / Sicarus
   * MeleeLess
 

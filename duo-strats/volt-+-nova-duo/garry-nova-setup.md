@@ -4,10 +4,10 @@
 
 As soon as Terry goes down:
 
-1. Place your Med Tower at LONG ([see placement](https://docs.google.com/document/d/17GKu52mvzQVJ5mcfDTcKP1q-mH6aMywsF3aNERU0E1w/edit?tab=t.0#heading=h.fu6db3walg0w)).
+1. Place your Med Tower at LONG ([<mark style="color:$success;">**see placement**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/med-tower)).
 2. Go to the Shrine.
 
-Portal Placement
+### Portal Placement
 
 At the Shrine:
 
@@ -66,4 +66,4 @@ Example Garry Water Preparation [LINK<br>](https://www.youtube.com/watch?v=o7GMN
 Garry Fight
 
 Same process as Terry’s limbs.\
-Gantu should fall 4:05.700 ([shrine cycle](https://docs.google.com/document/d/17GKu52mvzQVJ5mcfDTcKP1q-mH6aMywsF3aNERU0E1w/edit?tab=t.0#heading=h.lj6ay03mjg97))
+Gantu should fall 4:05.700 ([<mark style="color:$success;">**shrine cycle**</mark>](../../advanced/shrine-cycles-and-bus.md))
