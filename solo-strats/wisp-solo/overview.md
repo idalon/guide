@@ -22,14 +22,14 @@ She allows simple, fast, and highly consistent waters, thanks to her teleportati
 * The projectile explodes after a short delay (\~310ms)
 * The explosion can hit the Eidolon's Invisible [**Hitbox**](https://developer.valvesoftware.com/wiki/Hitbox)
 
-## **Wisp Water Mechanic (Water)**
+## **Wisp Water Mechanics (Water)**
 
 * Wisp teleports to one of her [**Reservoir motes**](https://wiki.warframe.com/w/Reservoirs) by using [**Breach Surge**](https://wiki.warframe.com/w/Breach_Surge)
-* Each mote is pre-placed over each Eidolon spawn ([<mark style="color:$success;">**locpin**</mark>](loc-pin-water.md))
+* A mote is pre-placed over each Eidolon spawn ([<mark style="color:$success;">**locpin**</mark>](loc-pin-water.md))
 * Immediately follows up with Shraksun
 * The projectile is fired directly into the Eidolon's invisible Hitbox
 * The shields are destroyed 310ms after (almost in the blink of an eye)
-* Returns to Warframe to finish the limb using Zenith
+* Returns to Warframe to break the limb using Zenith
 
 ## **Inputs Water & Keybinds**
 

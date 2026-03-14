@@ -40,6 +40,8 @@ icon: book-open-lines
 **Mid** ⇨ Middle Spawn\
 **Long** ⇨ Long / Far Spawn
 
+**TP** ⇨ Teleport
+
 **Shield** ⇨ Eidolon's shield\
 **Limb** ⇨ Synovias / Eidolon limb\
 **Water Shield** ⇨ First Shield\
