@@ -1,16 +1,14 @@
-# Locpin Water
+# Loc-Pin Water
 
-Loc-pins will help you position yourself correctly; they’re a great time-saver and quality-of-life (QOL) improvement.
+[**Loc-pins**](https://wiki.warframe.com/w/Loc-Pin) will help you position yourself correctly; they’re a great time-saver and QOL improvement.
 
-Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
+* Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 Wisp pins are placed 10 m forward (Shraksun range) compared to the Nova pins
 
-PIN NOVA\
-PIN WISP\
-Shraksun range
+<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FHJ45RfMxEjaiPE2kwiLu%2Funknown.png?alt=media&#x26;token=dd59017c-0c9f-4efe-b092-f8b38f0192d5" alt="" width="324"><figcaption><p><strong>Pink: Nova Loc-Pin</strong><br><strong>Blue: Wisp Loc-Pin</strong><br><strong>Yellow: Shraksun range</strong></p></figcaption></figure>
 
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FHJ45RfMxEjaiPE2kwiLu%2Funknown.png?alt=media&#x26;token=dd59017c-0c9f-4efe-b092-f8b38f0192d5" alt="" width="324"><figcaption></figcaption></figure>
+### Loc-Pin placement
 
 <details>
 
@@ -47,3 +45,7 @@ Bonus
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FjFFuVtapmiB4hdGQS14D%2Funknown.png?alt=media&#x26;token=4ea465f9-0ec4-4c8c-939c-417726f66b90" alt=""><figcaption><p>limb pin approx. location relative to Wisp Long Pin</p></figcaption></figure>
 
 </details>
+
+{% hint style="info" %}
+You don't need millimetric precision for these locpins, so don't stress about getting the exact same spot as in the screenshots
+{% endhint %}

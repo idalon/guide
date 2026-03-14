@@ -45,3 +45,7 @@ This guide is an update of\
 
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="warning" %}
+**Disclaimer:** this guide is still being worked on as of March 2026, if you find any mistakes feel free to tag Fenomeral on the Eidolon Discord Server. Same if you want to contribute with content for the guide.
+{% endhint %}
