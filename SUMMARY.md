@@ -36,6 +36,7 @@
   * [How to Void Sling faster](basics/how-to-void-sling-faster.md)
   * [How To Break Shield + Limb](basics/how-to-break-shield-+-limb.md)
   * [QOL Settings](basics/qol-settings.md)
+  * [Video Settings](basics/video-settings.md)
   * [Force Spawn Vomalyst](basics/force-spawn-vomalyst.md)
   * [Quick Charge 2+2](basics/quick-charge-2+2.md)
   * [Lure Management - Basic Info](basics/lure-management-basic-info.md)

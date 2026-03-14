@@ -8,7 +8,7 @@ Charging Lures is one of the most basic yet essential tasks in hunting. In total
 * 3 for the [Gantulyst](https://wiki.warframe.com/w/Eidolon_Gantulyst)
 * 3 for the [Hydrolyst](https://wiki.warframe.com/w/Eidolon_Hydrolyst)
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Gathering lures
 
@@ -38,7 +38,7 @@ You need to capture 3 Vomvalysts into each of your Lures to fully charge them. Y
 * Kill Vomvalysts that are tethered or nearby your lure, which will provide a charge (there's a visual cue of the Vomvalyst going into the Lure).
 * Kill Vomvalysts in their Spectral Form using your Operator's Amp, then collect the Orb and bring it close to your lure to charge it.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
 <details>
 
@@ -87,4 +87,4 @@ Simply a showcase of a good area to charge multiple lures between Horns and the 
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Lures at the Blue marks</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Lures at the Blue marks</p></figcaption></figure>

@@ -103,5 +103,5 @@
 Don't forget to equip gear items in your [**Gearwheel**](https://warframe.fandom.com/wiki/Equipment#Gear)\
 Then add key binds for them under [**Settings > Controls**](https://warframe.fandom.com/wiki/Key_Bindings)
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
 {% endhint %}
