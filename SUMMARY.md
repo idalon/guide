@@ -76,4 +76,5 @@
     * [Garry Nova Setup](duo-strats/volt-+-nova-duo/garry-nova-setup.md)
     * [Harry Volt Setup](duo-strats/volt-+-nova-duo/harry-volt-setup.md)
     * [Harry Nova Setup](duo-strats/volt-+-nova-duo/harry-nova-setup.md)
+  * [Wisp + Wisp Duo](duo-strats/wisp-+-wisp-duo.md)
 * [Credits](credits.md)
