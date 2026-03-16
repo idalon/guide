@@ -3,8 +3,8 @@
 ## Team
 
 * Ban
-* Fenomeral
 * Lithiu
+* [Fenomeral](https://discordapp.com/users/312049719981506573)
 
 #### This guide is an update of
 
