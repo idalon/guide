@@ -42,8 +42,8 @@ icon: book-open-lines
 
 **TP** ⇨ Teleport
 
-**Shield** ⇨ Eidolon's shield\
-**Limb** ⇨ Synovias / Eidolon limb\
+**Shield** ⇨ Eidolon's Shield\
+**Limb** ⇨ Eidolon Synovia (weak points)\
 **Water Shield** ⇨ First Shield\
 **Water Limb** ⇨ First Limb
 
