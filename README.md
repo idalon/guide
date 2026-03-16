@@ -2,7 +2,7 @@
 icon: house
 ---
 
-# EIDOLON GUIDE
+# Eidolon Guide
 
 Feel free to join us on Discord at the [**Eidolon Server**](https://discord.com/invite/mQhzbVv5bg)
 
@@ -44,5 +44,5 @@ Its goal is to help you understand the basic mechanics if you play casually, as 
 {% endcolumns %}
 
 {% hint style="warning" %}
-**Disclaimer:** this guide is still being worked on as of March 2026, if you find any mistakes or something missing feel free to tag Fenomeral on the Eidolon Discord Server. Same if you want to contribute with content for the guide.
+**Disclaimer:** this guide is still being worked on as of March 2026, if you find any mistakes, something missing or want to contribute to the guide add it to the [suggestions](https://discord.com/channels/1350545484195958874/1363125593327140884) channel in the Eidolon Server.&#x20;
 {% endhint %}
