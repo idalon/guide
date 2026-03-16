@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EIDOLON GUIDE](README.md)
+* [Eidolon Guide](README.md)
 * [Vocabulary](vocabulary.md)
 * [Builds](builds/README.md)
   * [Beginner Builds](builds/beginner-builds/README.md)
