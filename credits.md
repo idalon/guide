@@ -6,7 +6,7 @@
 * Lithiu
 * [Fenomeral](https://discordapp.com/users/312049719981506573)
 
-## Predecesors
+## Predecessors
 
 This guide is an update of
 
