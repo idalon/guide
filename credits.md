@@ -17,4 +17,4 @@ This guide is an update of
 
 * Gov - Proofreading
 * Lead - Shrine Cycles & Bus insights
-* Kouks - Hosting the guide
+* Kouks - Hosting
