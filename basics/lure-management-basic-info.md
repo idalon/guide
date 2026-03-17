@@ -87,4 +87,4 @@ Simply a showcase of a good area to charge multiple lures between Horns and the 
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Lures at the Blue marks</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Lures at the Blue marks</p></figcaption></figure>

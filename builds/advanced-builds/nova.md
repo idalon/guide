@@ -2,7 +2,7 @@
 
 ## Duo
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="217"><figcaption></figcaption></figure></div>
 

@@ -26,4 +26,4 @@ description: Knell / Dual Toxocyst Incarnon
 &#x20;Must equip the [**Dual Toxocyst Incarnon Genesis**](https://wiki.warframe.com/w/Dual_Toxocyst_Incarnon_Genesis#Acquisition)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
