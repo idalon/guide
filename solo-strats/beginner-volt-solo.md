@@ -2,7 +2,7 @@
 
 There will be a more detailed post, for the meantime you can watch the following PoV:
 
-{% embed url="https://youtu.be/QNjLdOaFqHc" %}
+{% embed url="https://www.youtube.com/watch?v=QNjLdOaFqHc" %}
 
 Builds are the same as in the [<mark style="color:$success;">**Beginner Builds**</mark>](../builds/beginner-builds/) section (all rivenless)
 
