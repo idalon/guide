@@ -20,11 +20,13 @@ description: Knell / Dual Toxocyst Incarnon
 
 <details>
 
-<summary>Death Knell</summary>
+<summary><mark style="color:orange;"><strong>Death Knell</strong></mark></summary>
 
+{% embed url="https://youtu.be/7KUr2hvjAGU" %}
 
-
-<figure><img src="../../.gitbook/assets/Death Knell.gif" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Not doing this before exiting the Plains will render Knell **useless** for the following runs
+{% endhint %}
 
 </details>
 

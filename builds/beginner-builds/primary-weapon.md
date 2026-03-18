@@ -18,9 +18,11 @@ Additional blueprints can be bought from [**Cephalon Simaris**](https://wiki.war
 
 <summary><mark style="color:orange;"><strong>Why Zenith?</strong></mark></summary>
 
-<figure><img src="../../.gitbook/assets/Zenith Long.gif" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/Bje1ISh7neg" %}
 
+{% hint style="info" %}
 Zenith's infinite [**Punch Through**](https://wiki.warframe.com/w/Punch_Through) can hit the Eidolon Limbs underground, which is particularly useful for **Long Spawn**
+{% endhint %}
 
 </details>
 
