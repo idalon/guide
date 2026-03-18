@@ -16,7 +16,7 @@ Additional blueprints can be bought from [**Cephalon Simaris**](https://wiki.war
 
 <details>
 
-<summary><strong>Why Zenith?</strong></summary>
+<summary><mark style="color:orange;"><strong>Why Zenith?</strong></mark></summary>
 
 <figure><img src="../../.gitbook/assets/Zenith Long.gif" alt=""><figcaption></figcaption></figure>
 
