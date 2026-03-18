@@ -1,6 +1,8 @@
-# Video Settings
+---
+description: Feel free to play as you like, but here are a couple of tips
+---
 
-Feel free to play as you like but here are a couple of tips
+# Video Settings
 
 #### Texture Memory <mark style="color:blue;">HIGH</mark>
 
