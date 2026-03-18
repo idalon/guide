@@ -52,6 +52,7 @@
   * [Med-Tower Midair](advanced/med-tower-midair.md)
   * [Pre-VS at Shrine](advanced/pre-vs-at-shrine.md)
 * [Solo Strats](solo-strats/README.md)
+  * [Beginner Volt Solo](solo-strats/beginner-volt-solo.md)
   * [Wisp Solo](solo-strats/wisp-solo/README.md)
     * [Overview](solo-strats/wisp-solo/overview.md)
     * [Eidolon Walk](solo-strats/wisp-solo/eidolon-walk.md)
