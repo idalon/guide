@@ -15,8 +15,18 @@ description: Knell / Dual Toxocyst Incarnon
 {% endhint %}
 
 {% hint style="danger" %}
-**Always fire Knell Prime until it reloads before going back to Cetus through the gate as shown here:** [**https://youtu.be/7KUr2hvjAGU**](https://youtu.be/7KUr2hvjAGU)
+**Always fire Knell Prime until it reloads before going back to Cetus through the gate as shown below:**&#x20;
 {% endhint %}
+
+<details>
+
+<summary>Death Knell</summary>
+
+
+
+<figure><img src="../../.gitbook/assets/Death Knell.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
 
 ## Dual Toxocyst Incarnon
 
@@ -24,6 +34,8 @@ description: Knell / Dual Toxocyst Incarnon
 
 {% hint style="info" %}
 &#x20;Must equip the [**Dual Toxocyst Incarnon Genesis**](https://wiki.warframe.com/w/Dual_Toxocyst_Incarnon_Genesis#Acquisition)
+
+This weapon is better than Knell, however it requires the **genesis adapter** which could take you a few weeks to [**acquire**](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
