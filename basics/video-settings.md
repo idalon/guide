@@ -23,5 +23,5 @@ Feel free to play as you like but here are a couple of tips
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For **Speedrunners** trying for the leaderboard we recommend turning off the rest of the settings to keep your as frame rate stable as possible. Alternatively upscaling with **DLSS** on **Performance** or **Ultra Performance** is decent enough and allows your game to stay "pretty"
+For **Speedrunners** trying for the leaderboard we recommend turning off the rest of the settings to keep your frame rate as stable as possible. Alternatively upscaling with **DLSS** on **Performance** or **Ultra Performance** is decent enough and allows your game to stay "pretty"
 {% endhint %}
