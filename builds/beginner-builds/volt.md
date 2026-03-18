@@ -13,6 +13,10 @@ Volt is one of the best Warframes for Eidolon hunting. All of his abilities are 
 4. [**Eclipse**](https://wiki.warframe.com/w/Eclipse) **(**[**subsume**](https://wiki.warframe.com/w/Helminth#Ability_Replacement)**)**\
    Discharge is replaced with Eclipse, which provides a significant damage buff and optional damage reduction (not both at the same time)
 
+{% hint style="info" %}
+Ideally get Volt Prime, as it comes with higher base energy and sprint speed
+{% endhint %}
+
 #### [Umbra Mods](https://wiki.warframe.com/w/Umbra_Mods)
 
 * to greatly boost sentient damage reduction, you don't need them Max Rank
