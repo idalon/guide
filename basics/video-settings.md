@@ -6,7 +6,7 @@ description: Feel free to play as you like, but here are a couple of tips
 
 #### Texture Memory <mark style="color:blue;">HIGH</mark>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Make sure to keep this on <strong>High</strong></p></figcaption></figure>
 
 #### Volumetric Lighting <mark style="color:$danger;">OFF</mark> & Volumetric Fog Quality <mark style="color:$danger;">DISABLED</mark>
 
