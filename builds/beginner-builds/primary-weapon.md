@@ -9,7 +9,7 @@ description: Rubico / Perigale / Zenith
 ![Vigilante Armaments is deliberately rank 0](<../../.gitbook/assets/image (15)>)
 
 {% hint style="info" %}
-The **Zenith** is exclusive to the [**Daily Tribute**](https://wiki.warframe.com/w/Daily_Tribute) system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward.
+The [**Zenith**](https://wiki.warframe.com/w/Zenith) is exclusive to the [**Daily Tribute**](https://wiki.warframe.com/w/Daily_Tribute) system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward.
 
 Additional blueprints can be bought from [**Cephalon Simaris**](https://wiki.warframe.com/w/Cephalon_Simaris) for 100,000 standing.
 {% endhint %}
