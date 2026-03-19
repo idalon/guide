@@ -20,9 +20,9 @@ At the Shrine:
 
 * Reverse camera orientation (default key H)\
   ![](https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FPgk2m2PnYUMzDpdOWTte%2Funknown.png?alt=media\&token=7ff2706f-a181-4255-8f57-b968d43d8286)
-* Stand inside the “shrine hole” (see video)
+* Stand inside the “shrine hole” (see video) <mark style="background-color:$danger;">**\[PH] Video missing**</mark>
 
-### Place the portals in this order:
+### &#x20;Place the portals in this order:
 
 1. CL → aim at Volt on the LOC PIN
 2. MID → aim at your own LOC PIN
