@@ -1,5 +1,7 @@
 ---
-description: Builds in this section work rivenless
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/beginner-builds
 ---
 
 # Beginner Builds

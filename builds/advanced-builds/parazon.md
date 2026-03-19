@@ -1,6 +1,13 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/advanced-builds/parazon
+---
+
 # Parazon
 
-![](<../../.gitbook/assets/image (1)>)
+![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/T9E7xOuNqjX14LWcqnzS/image)
 
 {% hint style="info" %}
 [**Runtime**](https://wiki.warframe.com/w/Runtime) is the best mod you can use, it can help you reach Terry as quickly as possible after your QC

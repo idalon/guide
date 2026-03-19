@@ -1,8 +1,14 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/on-call-crew-occ
+---
+
 # On Call Crew - OCC
 
 This feature is incredibly useful for killing Vomvalysts as they spawn under the Eidolon, freeing you up to focus on other tasks. To unlock the [**On-Call Crew**](https://warframe.fandom.com/wiki/On_Call_Crew), you need [**Command Rank 9 in the Railjack Intrinsic**](https://wiki.warframe.com/w/Railjack/Intrinsics/Command#On_Call).
 
-### Weapon Choice for Crew
+## Weapon
 
 There are many good options for arming your On-Call Crew. Ideally, use a beam weapon like the [**Atomos**](https://wiki.warframe.com/w/Atomos), Kuva Nukor, Tenet Cycron, etc. However, even AoE weapons like the Ogris or Kuva Zarr can be used.
 
@@ -12,7 +18,7 @@ Below is a video example that walks you through the entire process, from hiring 
 
 <summary><mark style="color:red;"><strong>Video:</strong></mark><strong> Hiring OCC</strong></summary>
 
-{% embed url="https://youtu.be/5P6b95rPP3A" %}
+{% embed url="https://www.youtube.com/watch?v=5P6b95rPP3A" %}
 
 </details>
 

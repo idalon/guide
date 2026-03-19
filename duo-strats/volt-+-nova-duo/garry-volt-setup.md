@@ -1,12 +1,19 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo/garry-volt-setup
+---
+
 # Garry Volt Setup
 
-#### Garry Water Preparation – Volt
+## **Garry Water Preparation – Volt**
 
-Volt must:
+#### Volt must:
 
-1. Go to [<mark style="color:$success;">**LOC PIN CR**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/loc-pin-water) and place the Med Tower (see placement)
-2. Go to [<mark style="color:$success;">**LONG**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/loc-pin-water) and place his shields between 1:45 – 1:48
-3. Go to [<mark style="color:$success;">**LOC PIN CL**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/loc-pin-water) and wait for Nova’s portal
+1. Go to [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) **CR** and place the **Med-Tower** ([<mark style="color:$success;">**see placement**</mark>](../../advanced/med-tower-midair.md))
+2. Go to **Long** and place his shields between 1:45 – 1:48
+3. Go to **CL** and wait for Nova’s portal
 
 Then:
 
@@ -15,14 +22,17 @@ Then:
 
 Back to the Shrine
 
-* Place shields in front of the portals\
-  ⚠️ Step back to prevent Lures from spawning inside portals or in the water.
+* Place shields in front of the portals
+
+{% hint style="warning" %}
+Step back to prevent Lures from spawning inside portals or in the water.
+{% endhint %}
 
 Once the Lures explode:
 
 * Retrieve the loot with Itzal 3
 * Insert the Shard
-* Move to the [<mark style="color:$success;">**Volt Water LOC PIN**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/loc-pin-water) and break Garry limbs
+* Move to the **Volt Water** [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) and break Garry limbs
 
 Example Garry Water Preparation [Link](https://youtu.be/Kd27-2vVink)
 

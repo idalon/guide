@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/qol-settings
+---
+
 # QOL Settings
 
 * **Fire Manual Trigger Weapons Continuosly** ON

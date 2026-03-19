@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo/walkthrough
+---
+
 # Walkthrough
 
 This is just one example of a working gameplay.\
@@ -9,7 +16,7 @@ QC , lure management and water preparation can be adjusted
 ### Volt
 
 * Enters first, since he is the host
-* Immediately starts his QC ([<mark style="color:$success;">**Quick Charge**</mark>](../../basics/quick-charge-2+2.md))
+* Immediately starts his QC
 
 ### Nova
 
@@ -22,7 +29,7 @@ QC , lure management and water preparation can be adjusted
 * Volt heads to Terry to start breaking limbs
 * Nova goes to pick up 2 Lures, then positions herself in front of Terry to place them
 
-Who breaks the limbs? → [<mark style="color:$success;">**BreakShield\&Limb**</mark>](../../basics/how-to-break-shield-+-limb.md)
+#### Who breaks the limbs? → [<mark style="color:$success;">**Break Shield & Limb**</mark>](../../basics/how-to-break-shield-+-limb.md)
 
 * Either Nova or Volt can do it
 * Preferably Nova, since Volt must go get the Lures for the rest of the night

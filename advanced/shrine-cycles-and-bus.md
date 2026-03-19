@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/advanced/shrine-cycles-and-bus
+---
+
 # Shrine Cycles & Bus
 
 The Shrine activates on a fixed 2 second interval, known as the Shrine Cycle.
@@ -17,29 +24,29 @@ If you miss a bus, you’ll be forced to wait for the next Shrine Cycle, potenti
 * The bulk of the bus metric is just LLBT, if you have fast Capshots you don't have to pay attention to them.
 * The 4:03.700 bus is hard to hit in most cases. In speedruns, 4:05.700 is more typical.
 * The first set of each hunt (preload set) follows different earliest buses: 1:19.400 for the first Shrine and 3:59.800 for the second (and every 2s from there).
-* Why we call it a bus: it can be thought of as a bus stop, we wait for predetermined shrine cycles in the same way one waits for a bus to arrive (you always want to take the earliest bus possible).
+* Why we call it a bus: it can be thought of as a bus stop, we wait for predetermined shrine cycles in the same way one waits for a bus to arrive (you always want to take the earliest bus possible).&#x20;
 {% endhint %}
 
-### How to Find Your Own Bus:
+## How to Find Your Own Bus:
 
 You can extract them from your [**idalon**](http://idalon.com) logs using Lead’s [**ShrineCatBot**](https://discord.com/oauth2/authorize?client_id=1462504868383031500) on Discord. This bot is already integrated with the [**Eidolon Server**](https://discord.com/invite/mQhzbVv5bg).
 
 {% hint style="warning" %}
-These calculations are just aproximations. You are not expected to understand them, these are mainly useful for the most dedicated hunters.
+These calculations are just approximations. You are not expected to understand them, these are mainly useful for the most dedicated hunters.
 {% endhint %}
 
-#### Discord command:
+### **Discord command:**
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FCHfNOdxQ8NXjyl3STVcR%2Funknown.png?alt=media&#x26;token=fdba4c7b-4f0a-4c50-9854-605ad70ad909" alt=""><figcaption></figcaption></figure>
 
-#### Output:
+### **Output:**
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FZXryhn3ZXHSFd17YecPt%2Funknown.png?alt=media&#x26;token=805d4e52-be16-4df3-8364-c23e0a982aee" alt=""><figcaption></figcaption></figure>
 
-From that output you can interpret that the Garry bus is around 1.XX.300 (XX = 23, 25, 27…) and the Harry Bus around 4:XX.700 (XX = 03, 04, 05…). Since XX is always an odd number, you can focus on the decimal part (.000) exclusively.\
+From that output you can interpret that the <mark style="color:$warning;">**Garry Bus**</mark> is around <mark style="color:$warning;">**1.XX.300 (XX = 23, 25, 27…)**</mark> and the <mark style="color:green;">**Harry Bus**</mark> around <mark style="color:green;">**4:XX.700 (XX = 03, 04, 05…)**</mark>. Since XX is always an **odd number**, you can focus on the decimal part (.000) exclusively.\
 If you analyze your own runs, you may find your buses to be different from XX.300 and XX.700
 
-#### Example Terry’s Vulnerability Times and Buses for Garry and Harry
+#### **Example Terry’s Vulnerability Times & Buses for Garry and Harry**
 
 144 FPS Cap Comparison\
 **IG**: In-game\

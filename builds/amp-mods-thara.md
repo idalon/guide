@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/amp-mods-thara
+---
+
 # Amp Mods - Thara
 
 <details>
@@ -25,7 +31,7 @@ That's it now you have the option to mod **Thara** which will boost your amp dam
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FhDMEZ7Yt1O9bkDNH48GO%2Funknown.png?alt=media&#x26;token=d907235d-bece-4f99-a8ef-58b8e249ee03" alt="" width="563"><figcaption></figcaption></figure>
 
-#### Must have mods:
+### **Must have mods**
 
 <details>
 
@@ -68,11 +74,11 @@ That's it now you have the option to mod **Thara** which will boost your amp dam
 <summary><strong>Any Zenurik Mod</strong></summary>
 
 * Simply slot any Zenurik mod, synergizing with **Omn-Evi's +10% Critical Damage**
-* **Esti Vel-Ikha** void Sling distance and radius
+* [**Esti Vel-Ikha**](https://wiki.warframe.com/w/Esti_Vel-Ikha) void Sling distance and radius
 
 </details>
 
-#### Avoid these mods:
+### **Avoid these mods**
 
 <details>
 

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/beginner-volt-solo
+---
+
 # Beginner Volt Solo
 
 There will be a more detailed post, for the meantime you can watch the following PoV:

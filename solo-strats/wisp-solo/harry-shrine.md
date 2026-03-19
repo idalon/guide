@@ -1,13 +1,20 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/wisp-solo/harry-shrine
+---
+
 # Harry Shrine
 
-### At the Shrine – VS Timing
+## At the Shrine – VS Timing
 
 At the same instant the loot lure pops:
 
 * Go Operator
 * Use the [**Power Transfer**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer) duration as a reference to time your **VS**
 
-### Timing Pre-VS
+## Timing Pre-VS
 
 You have to cast **VS** **9 seconds** after the loot lure explodes
 
@@ -15,7 +22,8 @@ If you are constant enough then:
 
 {% columns %}
 {% column width="75%" %}
-* Wait until **11s left** on Power Transfer
+\* Wait until **11s left** on Power Transfer
+
 * Activate **Void Strike**, switch back to your frame
 * Insert the **Shard**
 * Teleport to **CL** using Breach Surge
@@ -33,13 +41,13 @@ Alternatively, you can time those 9 seconds by different means, like using a clo
 
 See Fenomeral’s examples [**Link**](https://youtu.be/tb0VvhpI54Q?t=1818)
 
-#### Harry Fight
+## **Harry Fight**
 
 * Using [<mark style="color:$success;">**Mandonel**</mark>](../../advanced/mandonel-voltless.md) is mandatory for Harry
 * Use **Eclipse DR** (Night mode) if needed for survivability
   * Double tapping **Wil-O-Wisp** makes you invulnerable for 3s
 
-### After Hydro Down
+## After Hydro Down
 
 * Make sure all lures are fully charged
 * Stay away of Harry for 30-40s until just before it gets up, to keep your lures from dying

@@ -1,8 +1,15 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/beginner-builds/melee-weapon
+---
+
 # Melee Weapon
 
 ## Vastilok or Sarpa
 
-![](<../../.gitbook/assets/image (34)>)
+![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/LGWWOtb11uqsjMPjkQTw/image)
 
 {% hint style="info" %}
 * [**Vastilok**](https://wiki.warframe.com/w/Vastilok#Acquisition) can be replaced with [**Sarpa**](https://wiki.warframe.com/w/Sarpa#Acquisition), but you’ll have an easier time with Vastilok

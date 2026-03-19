@@ -1,13 +1,20 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo/garry-nova-setup
+---
+
 # Garry Nova Setup
 
-#### Garry Water Preparation – Nova
+## **Garry Water Preparation – Nova**
 
 As soon as Terry goes down:
 
-1. Place your Med Tower at LONG ([<mark style="color:$success;">**see placement**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/22/duo-strats/volt-+-nova-duo/med-tower)).
+1. Place your Med-Tower at Long ([<mark style="color:$success;">**see placement**</mark>](../../advanced/med-tower-midair.md)).
 2. Go to the Shrine.
 
-### Portal Placement
+## Portal Placement
 
 At the Shrine:
 
@@ -15,7 +22,7 @@ At the Shrine:
   ![](https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FPgk2m2PnYUMzDpdOWTte%2Funknown.png?alt=media\&token=7ff2706f-a181-4255-8f57-b968d43d8286)
 * Stand inside the “shrine hole” (see video)
 
-Place the portals in this order:
+### Place the portals in this order:
 
 1. CL → aim at Volt on the LOC PIN
 2. MID → aim at your own LOC PIN
@@ -23,19 +30,20 @@ Place the portals in this order:
 4. CR → aim at Volt’s Med Tower
 5. Go to LONG and place the last portal toward your Med Tower
 
-Long Unstuck Setup – Nova\
+## Long Unstuck Setup – Nova
+
 After taking the portal toward your Long tower:
 
 * Leave your Warframe in front of the portal
 * Go into Operator
-* Jump + sling 2–3 times toward the shrine, staying over water
+* Jump + sling 2–3 times toward the shrine, **staying over water**
 * Swap back to Warframe + Archwing
 * Never fly over land or the setup breaks
 * Land near the tip rock of the Shrine
 * Cast Roar for VOLT
 * Keep /unstuck pre-typed in chat
 
-At the Shrine – VS + Propa Timing
+## At the Shrine – VS + Propa Timing
 
 When the host detonates the loot:
 

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/amp-and-operator-arcanes
+---
+
 # Amp & Operator Arcanes
 
 ## AMP Arcanes
