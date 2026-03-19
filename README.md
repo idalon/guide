@@ -1,5 +1,8 @@
 ---
 icon: house
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/
 ---
 
 # Eidolon Guide
@@ -16,7 +19,7 @@ Its goal is to help you understand the basic mechanics if you play casually, as 
 ## **QUICK MENU**
 
 {% columns %}
-{% column width="50%" %}
+{% column %}
 {% content-ref url="builds/" %}
 [builds](builds/)
 {% endcontent-ref %}
@@ -30,7 +33,7 @@ Its goal is to help you understand the basic mechanics if you play casually, as 
 {% endcontent-ref %}
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column %}
 {% content-ref url="solo-strats/" %}
 [solo-strats](solo-strats/)
 {% endcontent-ref %}
@@ -38,11 +41,9 @@ Its goal is to help you understand the basic mechanics if you play casually, as 
 {% content-ref url="duo-strats/" %}
 [duo-strats](duo-strats/)
 {% endcontent-ref %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
-**Disclaimer:** this guide is still being worked on as of March 2026, if you find any mistakes, something missing or want to contribute to the guide add it to the [suggestions](https://discord.com/channels/1350545484195958874/1363125593327140884) channel in the Eidolon Server.&#x20;
+### **Disclaimer:** this guide is still being worked on as of March 2026, if you find any mistakes, something missing or want to contribute to the guide add it to the [suggestions](https://discord.com/channels/1350545484195958874/1363125593327140884) channel in the Eidolon Server.
 {% endhint %}

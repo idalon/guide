@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/timing-contamination-wave
+---
+
 # Timing Contamination Wave
 
 <mark style="color:yellow;">CW</mark> creates a debuff that lasts 20 seconds but <mark style="color:$danger;">**cannot be refreshed**</mark>. To ensure the debuff is active on each limb at the moment its shield breaks, you need to carefully control when you apply it

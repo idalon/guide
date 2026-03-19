@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/intrinsics-railjack-and-duviri
+---
+
 # Intrinsics - Railjack & Duviri
 
 All of this is optional, but if you're aiming for speed and efficiency, you should consider unlocking these intrinsics:
@@ -13,7 +20,7 @@ All of this is optional, but if you're aiming for speed and efficiency, you shou
 * [**Gunnery Rank 8**](https://wiki.warframe.com/w/Railjack/Intrinsics/Gunnery), +20% Range and Efficiency
 * [**Command Rank 9**](https://wiki.warframe.com/w/Railjack/Intrinsics/Command), Unlock On-Call Crew
 
-## **Screenshots:**
+### **Screenshots:**
 
 <details>
 

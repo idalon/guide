@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/wisp-solo/overview
+---
+
 # Overview
 
 Wisp is currently one of the most consistent and meta frames for solo Eidolon hunts.\
@@ -25,7 +32,7 @@ She allows simple, fast, and highly consistent waters, thanks to her teleportati
 ## **Wisp Water Mechanics (Water)**
 
 * Wisp teleports to one of her [**Reservoir motes**](https://wiki.warframe.com/w/Reservoirs) by using [**Breach Surge**](https://wiki.warframe.com/w/Breach_Surge)
-* A mote is pre-placed over each Eidolon spawn ([<mark style="color:$success;">**locpin**</mark>](loc-pin-water.md))
+* A mote is pre-placed over each Eidolon spawn ([<mark style="color:$success;">**locpin**</mark>](loc-pins.md))
 * Immediately follows up with Shraksun
 * The projectile is fired directly into the Eidolon's invisible Hitbox
 * The shields are destroyed 310ms after (almost in the blink of an eye)
@@ -40,7 +47,7 @@ She allows simple, fast, and highly consistent waters, thanks to her teleportati
 
 Timing and positioning are the key to consistency
 
-## Shraksun → Eidolon Interaction (Simplified Visual)
+## Shraksun (Simplified Visual)
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FlIAa7ke0cG6gDC3ucnBS%2Funknown.png?alt=media&#x26;token=f34a9294-e7c4-41c6-8beb-225a9756cf6f" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,10 @@
-# Gearwheel equipment
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/gearwheel-equipment
+---
+
+# Gearwheel Equipment
 
 <details>
 
@@ -55,7 +61,7 @@
 
 <summary><strong>On-Call-Crew</strong></summary>
 
-* There's a more detailed segment for this: [<mark style="color:$success;">**OCC**</mark>](https://app.gitbook.com/o/4Fp1ONKFMoRcF25FTbqR/s/SwotjVkQd1faB6N1f6j4/~/edit/~/changes/15/basics/on-call-crew-occ)
+* There's a more detailed segment for this: [<mark style="color:$success;">**OCC**</mark>](https://fenomeral.gitbook.io/eidolon-guide/basics/on-call-crew-occ)
 
 </details>
 
@@ -100,8 +106,8 @@
 </details>
 
 {% hint style="info" %}
-Don't forget to equip gear items in your [**Gearwheel**](https://warframe.fandom.com/wiki/Equipment#Gear)\
+Don't forget to equip gear items in your [**Gearwheel**](https://warframe.fandom.com/wiki/Equipment#Gear) \
 Then add key binds for them under [**Settings > Controls**](https://warframe.fandom.com/wiki/Key_Bindings)
 
-![](<../.gitbook/assets/image (13).png>)
+<img src="https://2250278911-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSwotjVkQd1faB6N1f6j4%2Fuploads%2FzpEhnS7tSVy8CUa79rDK%2Fimage.png?alt=media&#x26;token=2985193d-447d-4b0d-9395-28a2171dee99" alt="" data-size="original">
 {% endhint %}
