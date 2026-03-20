@@ -1,4 +1,4 @@
-# To do
+# To-do
 
 * Known bugs
 * Meleless transfer out
@@ -10,4 +10,3 @@
 * PH Mandonel gif
 * PH Nova shrine pocket video
 * PH Harry Nova Setup (harry preparation link)
-
