@@ -40,7 +40,6 @@ Before finishing Terry
 After the Terry down
 
 * Take at least 3 lures.
-* Place your water setup motes ([<mark style="color:$success;">**loc-pins**</mark>](loc-pins.md))
 
 Then:
 
