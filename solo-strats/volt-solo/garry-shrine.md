@@ -7,7 +7,7 @@ metaLinks:
 
 # Garry Shrine
 
-## At the Shrine – VS timming
+## At the Shrine – VS Timing
 
 When the loot pop:
 
