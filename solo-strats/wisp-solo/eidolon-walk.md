@@ -7,6 +7,14 @@ metaLinks:
 
 # Eidolon Walk
 
+{% hint style="danger" %}
+**Update 42: The Shadowgrapher** (25/03/2026)
+
+Eidolons ignore terrain collisions and can potentially clip deep into water or to areas where Lure AI will have trouble reaching. Be careful about breaking multiple limbs from one side in a row.
+
+![](../../.gitbook/assets/image.png)
+{% endhint %}
+
 ## **Eidolon Walk = Limb Order**
 
 Sometimes a capshot is so fast that the Eidolon will play a **Kill Animation** (despite being captured, not killed), this leaves behind a **lingering hitbox** that will block your ability to **Breach Surge** through it.
@@ -15,5 +23,6 @@ Sometimes a capshot is so fast that the Eidolon will play a **Kill Animation** (
 
 ## Wisp pattern
 
-* **CL → RLLLRR**
-* **CR MID LONG →** free to do anything
+* **CL → RLLRLR** ~~RLLLRR~~
+* **CR MID LONG →** RLRLRL or LRLRLR
+
