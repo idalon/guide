@@ -10,7 +10,7 @@ This feature is incredibly useful for killing Vomvalysts as they spawn under the
 
 ## Weapon
 
-There are many good options for arming your On-Call Crew. Ideally, use a beam weapon like the [**Atomos**](https://wiki.warframe.com/w/Atomos), Kuva Nukor, Tenet Cycron, etc. However, even AoE weapons like the Ogris or Kuva Zarr can be used.
+There are many good options for arming your On-Call Crew. Ideally, use a beam weapon like the [**Atomos**](https://wiki.warframe.com/w/Atomos), Kuva Nukor, etc. However, even AoE weapons like the Ogris or Kuva Zarr can be used.
 
 Below is a video example that walks you through the entire process, from hiring your On-Call Crew to deploying them in a mission. Don't forget, you'll also need to equip your On-Call Crew in your Gear Wheel
 
