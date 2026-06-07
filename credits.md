@@ -10,7 +10,7 @@ metaLinks:
 
 * Ban
 * Lithiu
-* [Fenomeral](https://discordapp.com/users/312049719981506573)
+* Fenomeral
 
 ## Predecessors
 
