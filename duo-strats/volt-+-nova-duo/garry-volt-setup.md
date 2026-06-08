@@ -34,6 +34,6 @@ Once the Lures explode:
 * Insert the Shard
 * Move to the **Volt Water** [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) and break Garry limbs
 
-Example Garry Water Preparation [Link](https://youtu.be/Kd27-2vVink)
+Example Garry Water Preparation [**Link**](https://youtu.be/Kd27-2vVink)
 
-Example Water Limb Break:[ LINK](https://youtu.be/LsE50q9G2wA)
+Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)

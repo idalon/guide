@@ -20,7 +20,7 @@ At the Shrine:
 
 * Reverse camera orientation (default key H)\
   ![](https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FPgk2m2PnYUMzDpdOWTte%2Funknown.png?alt=media\&token=7ff2706f-a181-4255-8f57-b968d43d8286)
-* Stand inside the “shrine hole” (see video) <mark style="background-color:$danger;">**\[PH] Video missing**</mark>
+* Stand inside the “shrine hole” ([**video**](https://www.youtube.com/watch?v=7ipLx26Bkkw))
 
 ### &#x20;Place the portals in this order:
 
@@ -67,7 +67,7 @@ Then:
 * Shoot the propa
 * Turn around and break the limb
 
-Example Garry Water Preparation [LINK<br>](https://www.youtube.com/watch?v=o7GMN66AnOE)Example Water Limb Break: [link](https://www.youtube.com/watch?v=LsE50q9G2wA)<br>
+Example Garry Water Preparation [**Link**](https://www.youtube.com/watch?v=o7GMN66AnOE)[<br>](https://www.youtube.com/watch?v=o7GMN66AnOE)Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)<br>
 
 ***
 
