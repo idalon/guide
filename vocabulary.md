@@ -43,7 +43,8 @@ metaLinks:
 **Mid** ⇨ Middle Spawn \
 **Long** ⇨ Long / Far Spawn
 
-**TP** ⇨ Teleport
+**TP** ⇨ Teleport\
+**Blink** ⇨ Archwing will TP 100m forward (roll keybind)
 
 **Shield** ⇨ Eidolon's Shield \
 **Limb** ⇨ Eidolon Synovia (weak points) \
