@@ -10,6 +10,18 @@ metaLinks:
 Wisp is currently one of the most consistent and meta frames for solo Eidolon hunts.\
 She allows simple, fast, and highly consistent waters, thanks to her teleportation mechanics.
 
+<details>
+
+<summary>6x3 example run:</summary>
+
+{% embed url="https://www.youtube.com/watch?v=TmwfctxpJsE" %}
+
+Log: [https://idalon.com/nights/a8539f4f-159d-4144-a971-380b2b68202c](https://idalon.com/nights/a8539f4f-159d-4144-a971-380b2b68202c)
+
+This method could be described as Shrine-to-CL, this is quite easy to replicate but there are faster albeit slightly more complex alternatives such as [RunicKnight](https://idalon.com/nights/0003d260-b3b2-463c-b83a-e091b23f8464)'s Above-Shrine method
+
+</details>
+
 ## **Builds**
 
 * [<mark style="color:$success;">**Wisp**</mark>](../../builds/advanced-builds/wisp.md)
