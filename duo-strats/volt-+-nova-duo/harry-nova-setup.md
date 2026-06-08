@@ -50,7 +50,6 @@ Then:
 * Shoot the propa
 * Turn around and break the limb
 
-Example Water Preparation link <mark style="background-color:$danger;">**\[PH] Missing Link**</mark>
+Example Water Preparation: <mark style="background-color:$danger;">**\[PH] Missing Link**</mark>
 
-Example Water Limb Break:[ link](https://www.youtube.com/watch?v=LsE50q9G2wA)
-
+Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)

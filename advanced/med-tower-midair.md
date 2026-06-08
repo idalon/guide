@@ -47,5 +47,4 @@ Med-Tower usually spawns on the ground, however you can place it suspended in mi
 2. Now on your Archwing, fly over Mandonel's trail
 3. Quickly melee out and then press your Med-Tower key bind ([<mark style="color:$success;">**Gear Hotkey key bindings**</mark>](../basics/gearwheel-equipment.md))
 
-<mark style="background-color:$danger;">**\[PH] Gif missing**</mark>
-
+{% embed url="https://www.youtube.com/watch?v=y0_xfUE8bV8" %}

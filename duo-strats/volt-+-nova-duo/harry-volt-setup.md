@@ -24,6 +24,7 @@ Always step back to prevent Lures spawning in portals/water
 * Place the shard
 * Go to **Volt Water** [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) and break Harry’s limbs
 
-Example Water Preparation [Link](https://youtu.be/dKt2os4gTGE)
+Example Water Preparation [**Link**](https://youtu.be/dKt2os4gTGE)
 
-Example Water Limb Break: [link](https://www.youtube.com/watch?v=LsE50q9G2wA)
+Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)
+
